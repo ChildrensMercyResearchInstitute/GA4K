@@ -1,3 +1,1 @@
-# Genomic answers for kids
-
-Filtered vcf files: small variant and structural variant.
+# Small variant file split by chromosome
