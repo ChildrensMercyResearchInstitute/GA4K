@@ -1,1 +1,1 @@
-# Small variant file split by chromosome
+Small variant file split by chromosome
