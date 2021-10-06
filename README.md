@@ -5,3 +5,9 @@ The Children’s Mercy Research Institute is undertaking a research initiative t
   https://www.childrensmercy.org/childrens-mercy-research-institute/studies-and-trials/genomic-answers-for-kids/
 
 This repo contains high-quality long read sequencing data accompanying the analysis of first 1000+ probands and their familes (XXX et al; doi: YYY). 
+
+Directories:
+
+ - pacbio_snv_vcf/ -  
+
+ - pacbio_sv_vcf - 
