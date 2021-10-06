@@ -8,6 +8,6 @@ This repo contains high-quality long read sequencing data accompanying the analy
 
 Contents of subdirectories:
 
- - pacbio_snv_vcf: PacBio small variant (SNV) vcf files that are high-quality (replicated by 2+ unrelated individuals).  
+ - pacbio_snv_vcf: High-quality PacBio small variant (SNV) vcf files.
 
- - pacbio_sv_vcf: PacBio structural variant (SV) vcf files that are high-quality (replicated by 2+ unrelated individuals).  
+ - pacbio_sv_vcf: High-quality PacBio structural variant (SV) vcf files.
