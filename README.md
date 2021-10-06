@@ -1,9 +1,5 @@
-# Genomic answers for kids - filtered PacBio vcf files
+# Genomic answers for kids
 
-Small Variants: 
- - A multi-sample small variant callset was produced by running GLnexus v1.2.7 (https://doi.org/10.1093/bioinformatics/btaa1081) on all single-sample DeepVariant gVCF files using glnexus_cli --config DeepVariant_unfiltered and converting the resulting BCF to VCF with bcftools viewv1.10.
- - This file is then filtered to 2+ unrelated individuals according to these rules: (a) match one other unrelated CMH variant or (2) match a variant in a HPRC sample.
+The Children’s Mercy Research Institute is undertaking a research initiative to build a first-of-its-kind pediatric data repository to facilitate the search for answers and novel treatments for pediatric genetic conditions. Our goal is to collect genomic data and health information for 30,000 children and their families over the next seven years, creating a database of nearly 100,000 genomes.
 
-Structural Variants: 
- - A multi-sample structural variant callset was produced by merging single-sample pbsv callsets with JASMINE v1.1.4 (https://doi.org/10.1101/2021.05.27.445886) using jasmine --output-genotypes.
- - This file is then filtered to 2+ unrelated individuals according to these rules: (1) match one other unrelated CMH SV (merged by Jasmine) or (2) match one Decode or HPRC SV using svpack match with default setting.
+This repo contains high-quality long read sequencing data that accompanies XXX et al (doi: XXX). 
