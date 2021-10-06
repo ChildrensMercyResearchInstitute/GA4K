@@ -6,8 +6,8 @@ The Children’s Mercy Research Institute is undertaking a research initiative t
 
 This repo contains high-quality long read sequencing data accompanying the analysis of first 1000+ probands and their familes (XXX et al; doi: YYY). 
 
-Directories:
+Contents of subdirectories:
 
- - pacbio_snv_vcf/ -  
+ - pacbio_snv_vcf: PacBio small variant (SNV) vcf files that are high-quality (replicated by 2+ unrelated individuals).  
 
- - pacbio_sv_vcf - 
+ - pacbio_sv_vcf: PacBio structural variant (SV) vcf files that are high-quality (replicated by 2+ unrelated individuals).  
